@@ -4,19 +4,19 @@ A nice and simple React template to let me (or anyone else) quickly whip up new 
 
 ## Features
 
-- [x] [React](https://reactjs.org/) + TypeScript
-- [ ] [Zustand](https://github.com/pmndrs/zustand) for state management
-- [ ] [React Router](https://reactrouter.com/en/main) for routing
-- [x] [Vite](https://vitejs.dev/)
-- [x] [Yarn](https://yarnpkg.com/) for package management
-- [ ] [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/) with some sensible defaults.
-- [ ] [Tailwind CSS](https://tailwindcss.com/) + [DaisyUI](https://daisyui.com/)
+-   [x] [React](https://reactjs.org/) + TypeScript
+-   [ ] [Zustand](https://github.com/pmndrs/zustand) for state management
+-   [ ] [React Router](https://reactrouter.com/en/main) for routing
+-   [x] [Vite](https://vitejs.dev/)
+-   [x] [Yarn](https://yarnpkg.com/) for package management
+-   [ ] [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/) with some sensible defaults.
+-   [ ] [Tailwind CSS](https://tailwindcss.com/) + [DaisyUI](https://daisyui.com/)
 
 ### VS Code Extensions
 
-- [Tailwind CSS Intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+-   [Tailwind CSS Intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+-   [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+-   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ## Coding style
 
@@ -45,11 +45,11 @@ If no one on your team is using VS Code, just delete the `.vscode/` folder.
 
 ## Next steps
 
-- [ ] Run `yarn dev` to start Vite and make sure everything's working.
-- [ ] Delete `LICENSE.txt` from the root of the directory.
-  - If your project still uses an MIT License, just edit the author and year.
-- [ ] In `package.json`, change the project name and version.
-- [ ] Delete the `.git/` folder if you cloned this repo.
-- [ ] Run a `git init` to start tracking changes.
-- [ ] Delete the boilerplate from`src/App.tsx`.
-- [ ] Do whatever. This code is yours now. Credit is appreciated but not needed.
+-   [ ] Run `yarn dev` to start Vite and make sure everything's working.
+-   [ ] Delete `LICENSE.txt` from the root of the directory.
+    -   If your project still uses an MIT License, just edit the author and year.
+-   [ ] In `package.json`, change the project name and version.
+-   [ ] Delete the `.git/` folder if you cloned this repo.
+-   [ ] Run a `git init` to start tracking changes.
+-   [ ] Delete the boilerplate from`src/App.tsx`.
+-   [ ] Do whatever. This code is yours now. Credit is appreciated but not needed.
