@@ -1,9 +1,10 @@
 import React from "react";
-import { useState } from "react";
+import useCount from "../store/count";
 import reactLogo from "../assets/react.svg";
 
 function Home() {
-	const [count, setCount] = useState(0);
+	const count = useCount((state: any) => state.count);
+	const increase = useCount((state: any) => state.increase);
 
 	return (
 		<div className="App">
@@ -35,7 +36,7 @@ function Home() {
 				<h1>Vite + React + TypeScript</h1>
 				<button
 					className="btn btn-primary"
-					onClick={() => setCount((count) => count + 1)}
+					onClick={increase}
 				>
 					count is {count}
 				</button>
