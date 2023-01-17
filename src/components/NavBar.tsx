@@ -8,7 +8,7 @@ interface NavBarProps {
 function NavBar() {
 	return (
 		<main>
-			<ul className="tabs flex justify-items-center">
+			<ul className="tabs justify-center pb-6">
 				<li className="tab tab-bordered">
 					<NavLink to="/">Home</NavLink>
 				</li>
