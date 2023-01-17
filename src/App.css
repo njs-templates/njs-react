@@ -39,3 +39,8 @@ code {
 .read-the-docs {
 	@apply text-accent;
 }
+
+.active {
+	color: red;
+	@apply tab-active;
+}

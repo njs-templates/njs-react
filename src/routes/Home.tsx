@@ -66,7 +66,7 @@ function Home() {
 					for more templates.
 				</p>
 				<p>
-					If you can view this page, everything should be working, so
+					If you can view both pages, everything should be working, so
 					open the README in the root of the directory for your next
 					steps and get coding.
 				</p>
