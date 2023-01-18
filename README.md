@@ -9,7 +9,8 @@ A nice and simple React template to let me (or anyone else) quickly whip up new 
 - [React Router](https://reactrouter.com/en/main) for routing
 - [Vite](https://vitejs.dev/)
 - [Yarn](https://yarnpkg.com/) for package management
-- [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/) with some sensible defaults.
+- [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/)
+    with some sensible defaults.
 - [Tailwind CSS](https://tailwindcss.com/) + [DaisyUI](https://daisyui.com/)
 
 ### VS Code Extensions
@@ -57,5 +58,6 @@ If no one on your team is using VS Code, just delete the `.vscode/` folder.
 - [ ] In `package.json`, change the project name and version.
 - [ ] Delete the `.git/` folder if you cloned this repo.
 - [ ] Run a `git init` to start tracking changes.
-- [ ] Delete the boilerplate from`src/App.tsx`.
+- [ ] Delete the boilerplate from`src/App.tsx`, `src/components/`, `src/store/`,
+    `src/routes/`, and `src/index.css`.
 - [ ] Do whatever. This code is yours now. Credit is appreciated but not needed.
