@@ -3,8 +3,8 @@ import useCount from "../store/count";
 import reactLogo from "../assets/react.svg";
 
 function Home() {
-	const count = useCount((state: any) => state.count);
-	const increase = useCount((state: any) => state.increase);
+	const count = useCount((state) => state.count);
+	const increase = useCount((state) => state.increase);
 
 	return (
 		<div className="App">
