@@ -17,8 +17,12 @@ A nice and simple React template to let me (or anyone else) quickly whip up new 
 - [Tailwind CSS Intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+with some basic settings.
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+- [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
 ## Coding style
 
@@ -49,7 +53,7 @@ If no one on your team is using VS Code, just delete the `.vscode/` folder.
 
 - [ ] Run `yarn dev` to start Vite and make sure everything's working.
 - [ ] Delete `LICENSE.txt` from the root of the directory.
-  - If your project still uses an MIT License, just edit the author and year.
+    - If your project still uses an MIT License, just edit the author and year.
 - [ ] In `package.json`, change the project name and version.
 - [ ] Delete the `.git/` folder if you cloned this repo.
 - [ ] Run a `git init` to start tracking changes.
